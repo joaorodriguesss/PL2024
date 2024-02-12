@@ -1,10 +1,10 @@
-# EngWeb2024
+# PL2024
 
 ## Unidade Curricular
 
-*Nome:* Engenharia WEB
+*Nome:* Processamento de Linguagens
 
-*Sigla:* EW
+*Sigla:* PL
 
 *Ano:* 2024
 
